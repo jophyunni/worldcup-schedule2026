@@ -1,8 +1,9 @@
 {
   "metadata": {
-    "source": "Official FIFA page (to be refreshed by repository updater)",
-    "lastUpdatedUtc": "2026-06-14T08:51:02Z",
-    "notes": "Sample starter data. Knockout stages intentionally contain TBD placeholders to demonstrate automation."
+    "source": "Official FIFA page / repository updater",
+    "lastUpdatedUtc": "2026-06-14T06:17:17Z",
+    "notes": "Sample starter data. Knockout stages intentionally contain TBD placeholders to demonstrate automation.",
+    "detectedPairs": 0
   },
   "matches": [
     {
