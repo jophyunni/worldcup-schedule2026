@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "source": "Official FIFA page (to be refreshed by repository updater)",
+    "lastUpdatedUtc": "2026-06-14T08:51:02Z",
+    "notes": "Sample starter data. Knockout stages intentionally contain TBD placeholders to demonstrate automation."
+  },
+  "matches": [
+    {
+      "matchNumber": 9,
+      "stage": "GROUP",
+      "group": "E",
+      "utc": "2026-06-14T17:00:00Z",
+      "home": "Germany",
+      "homeFlag": "🇩🇪",
+      "away": "Curaçao",
+      "awayFlag": "🇨🇼",
+      "venue": "NRG Stadium, Houston"
+    },
+    {
+      "matchNumber": 10,
+      "stage": "GROUP",
+      "group": "F",
+      "utc": "2026-06-14T20:00:00Z",
+      "home": "Netherlands",
+      "homeFlag": "🇳🇱",
+      "away": "Japan",
+      "awayFlag": "🇯🇵",
+      "venue": "AT&T Stadium, Dallas"
+    },
+    {
+      "matchNumber": 11,
+      "stage": "GROUP",
+      "group": "E",
+      "utc": "2026-06-14T23:00:00Z",
+      "home": "Ivory Coast",
+      "homeFlag": "🇨🇮",
+      "away": "Ecuador",
+      "awayFlag": "🇪🇨",
+      "venue": "Lincoln Financial Field, Philadelphia"
+    },
+    {
+      "matchNumber": 12,
+      "stage": "GROUP",
+      "group": "F",
+      "utc": "2026-06-15T02:00:00Z",
+      "home": "Sweden",
+      "homeFlag": "🇸🇪",
+      "away": "Tunisia",
+      "awayFlag": "🇹🇳",
+      "venue": "Estadio BBVA, Monterrey"
+    },
+    {
+      "matchNumber": 73,
+      "stage": "R32",
+      "group": "R32",
+      "utc": "2026-06-28T17:00:00Z",
+      "home": "Winner Group A",
+      "homeFlag": "🏆",
+      "away": "3rd Place Team",
+      "awayFlag": "❔",
+      "venue": "Venue TBD"
+    },
+    {
+      "matchNumber": 89,
+      "stage": "QF",
+      "group": "QF",
+      "utc": "2026-07-09T17:00:00Z",
+      "home": "TBD",
+      "homeFlag": "❔",
+      "away": "TBD",
+      "awayFlag": "❔",
+      "venue": "Venue TBD"
+    },
+    {
+      "matchNumber": 103,
+      "stage": "3P",
+      "group": "3P",
+      "utc": "2026-07-18T19:00:00Z",
+      "home": "TBD",
+      "homeFlag": "❔",
+      "away": "TBD",
+      "awayFlag": "❔",
+      "venue": "Venue TBD"
+    },
+    {
+      "matchNumber": 104,
+      "stage": "FINAL",
+      "group": "F",
+      "utc": "2026-07-19T19:00:00Z",
+      "home": "TBD",
+      "homeFlag": "❔",
+      "away": "TBD",
+      "awayFlag": "❔",
+      "venue": "New York New Jersey Stadium"
+    }
+  ]
+}
